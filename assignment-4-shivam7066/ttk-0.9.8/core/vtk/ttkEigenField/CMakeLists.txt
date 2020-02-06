@@ -1,9 +1,0 @@
-ttk_add_vtk_library(ttkEigenField
-  SOURCES
-    ttkEigenField.cpp
-  HEADERS
-    ttkEigenField.h
-  LINK
-    eigenField
-    ttkTriangulation
-    )

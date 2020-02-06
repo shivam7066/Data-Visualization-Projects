@@ -1,4 +1,0 @@
-ttk_add_vtk_library(ttkContourAroundPoint
-	SOURCES ttkContourAroundPoint.cpp
-	HEADERS ttkContourAroundPoint.h
-	LINK contourAroundPoint ttkTriangulation)

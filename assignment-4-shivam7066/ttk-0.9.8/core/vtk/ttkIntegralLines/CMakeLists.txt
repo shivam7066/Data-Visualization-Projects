@@ -1,9 +1,0 @@
-ttk_add_vtk_library(ttkIntegralLines
-  SOURCES
-    ttkIntegralLines.cpp
-  HEADERS
-    ttkIntegralLines.h
-  LINK
-    integralLines
-    ttkTriangulation
-    )

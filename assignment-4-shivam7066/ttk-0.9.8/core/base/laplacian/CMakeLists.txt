@@ -1,9 +1,0 @@
-ttk_add_base_library(laplacian
-  SOURCES
-    Laplacian.cpp
-  HEADERS
-    Laplacian.h
-  LINK
-    geometry
-    triangulation
-    )

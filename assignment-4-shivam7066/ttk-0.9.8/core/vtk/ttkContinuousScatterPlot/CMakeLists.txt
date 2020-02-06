@@ -1,9 +1,0 @@
-ttk_add_vtk_library(ttkContinuousScatterPlot
-  SOURCES
-    ttkContinuousScatterPlot.cpp
-  HEADERS
-    ttkContinuousScatterPlot.h
-  LINK
-    continuousScatterPlot
-    ttkTriangulation
-    )
